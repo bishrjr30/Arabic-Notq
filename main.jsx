@@ -7,4 +7,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
 ) 
 
-fix entry file path
